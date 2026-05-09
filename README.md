@@ -1,4 +1,4 @@
-Principal developer working in .NET technologies for London, UK based Software Consultancy. Experience of C#, C++, CTI, HL7 and FHIR amongst other things. Previously worked in Urgent Healthcare and Financial services.
+Principal Software Engineer working in .NET technologies. Experience of C#, C++, CTI, PCAN, HL7 and FHIR amongst other things. Previously worked in Urgent Healthcare and Financial services.
 
 Author of some small OSS bits and pieces. Contributer to ReactiveUI and Splat when time allows.
 
